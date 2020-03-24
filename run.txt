@@ -1,0 +1,2 @@
+detection: python tools/run_net.py --cfg demo/AVA/SLOWFAST_32x2_R101_50_50.yaml
+classification: python tools/run_net.py --cfg demo/Kinetics/SLOWFAST_8x8_R50.yaml
